@@ -1,3 +1,3 @@
-- By judgement of tasks for Python
-- Creating games for C#
+- By judgement of tasks for Python.
+- Creating games for C#.
 - Machine learning. 
